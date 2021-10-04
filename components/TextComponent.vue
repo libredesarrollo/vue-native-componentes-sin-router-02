@@ -1,13 +1,13 @@
 <template>
     <view>
-      <text class="h1">
+      <text :style="{ fontSize :40}">
           Texto en H1
       </text>
 
-      <text class="h2">
+      <text :style="{ fontSize :30}">
           Texto en H2
       </text>
-      <text class="h3">
+      <text :style="{ fontSize :20}">
           Texto en H3
       </text>
       <text>

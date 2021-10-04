@@ -41,7 +41,7 @@ const StackNavigator = createStackNavigator(
     TouchableOpacity: TouchableOpacityComponent,
   },
   {
-    initialRouteName: 'TouchableOpacity',
+    initialRouteName: 'Button',
   }
 );
 
